@@ -1,0 +1,21 @@
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: arial, sans-serif;
+  font-size: small;
+}
+.top_panel {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  border-bottom: 1px solid #ebebeb;
+}
+.google_logo {
+  display: inline;
+}
+.google_logo img {
+  height: 44px;
+  width: 120px;
+}
